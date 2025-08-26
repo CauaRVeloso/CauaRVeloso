@@ -22,7 +22,7 @@
 
 ##
 
-- 🔭 Estou atualmente estudando Engenharia de Software no Centro Universitário de Brasília(CEUB).
-- 🌱 Estou aprendendo Python, HTML, CSS, Javascript
+- 🔭 Estou atualmente estudando Engenharia de Software na UnB.
+- 🌱 Estou aprendendo Python, HTML, CSS, Javascript, C
 - 💬 Entre em contato comigo! Email: cauaveloso07@gmail.com 
 
